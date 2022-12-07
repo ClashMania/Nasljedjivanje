@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\Nasljedivanje\bin\Debug\Nasljedivanje.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\Nasljedivanje\bin\Debug\Nasljedivanje.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Nasljedivanje\bin\Debug\Nasljedivanje.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\Nasljedivanje\obj\Debug\Nasljedivanje.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Nasljedivanje\obj\Debug\Nasljedivanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Nasljedivanje\obj\Debug\Nasljedivanje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Nasljedivanje\obj\Debug\Nasljedivanje.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Nasljedivanje\obj\Debug\Nasljedivanje.pdb
